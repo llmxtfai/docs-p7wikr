@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://llmxtfai.github.io/docs-p7wikr/sitemap.xml
